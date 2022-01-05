@@ -3,7 +3,7 @@
 
 
 ### Hi there, I am Vishnu Dutta 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Vishnu Dutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-dutta-90baba20b/)](https://www.linkedin.com/in/vishnu-dutta-90baba20b/)
+[![Linkedin Badge](https://img.shields.io/badge/-VishnuDutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-dutta-90baba20b/)](https://www.linkedin.com/in/vishnu-dutta-90baba20b/)
 [![Gmail Badge](https://img.shields.io/badge/-dutta1vishnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dutta1vishnu@gmail.com)](mailto:dutta1vishnu@gmail.com) 
 
 - 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)

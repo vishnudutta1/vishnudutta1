@@ -6,7 +6,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-dutta-90baba20b/)](https://www.linkedin.com/in/vishnu-dutta-90baba20b/)
 [![Gmail Badge](https://img.shields.io/badge/-dutta1vishnu@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dutta1vishnu@gmail.com)](mailto:dutta1vishnu@gmail.com) 
 
-- 🎯 Portfolio website: [Portfolio](https://rajaprerak.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://vishnu.dorik.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 *Things I love*

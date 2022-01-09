@@ -2,7 +2,7 @@
 
 
 
-### Hi there, I am Vishnu Dutta 👋
+ Hi there, I am Vishnu Dutta 👋
 
 # About Me
 [![Linkedin Badge](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-dutta-90baba20b/)](https://www.linkedin.com/in/vishnu-dutta-90baba20b/)

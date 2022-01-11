@@ -6,7 +6,8 @@
 # Aspiring Full Stack Web Developer
 
 ## About Me
-- Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
+- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
+- 👯 I’m looking to work as **Web Developer**
 - 🎯 Portfolio website: [Portfolio](https://vishnu.dorik.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 

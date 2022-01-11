@@ -6,7 +6,7 @@
 # Aspiring Full Stack Web Developer
 
 ## About Me
--Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
+- Passionate Full Stack Web Developer with a specialization in MERN stack. Skilled, collaborative and attentive developer with a drive to develop the most relevant products. Always looking forward to learning something new to strengthen skills learned.
 - 🎯 Portfolio website: [Portfolio](https://vishnu.dorik.io/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 

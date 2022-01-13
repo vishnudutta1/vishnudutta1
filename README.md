@@ -1,4 +1,5 @@
-<img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330">
+<!-- <img align="right" src="developer.gif" alt="Coder GIF" width="420" height="330"> -->
+<img>
 
 
 
@@ -42,6 +43,7 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+<br>
 
 <div align="center">
     <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>

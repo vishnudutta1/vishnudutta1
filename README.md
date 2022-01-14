@@ -9,7 +9,7 @@
 ## About Me
 - 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
 - 👯 I’m looking to work as **Web Developer**
-- 🎯 Portfolio website: [Portfolio](https://vishnu.dorik.io/)
+- 🎯 Portfolio website: [Portfolio](https://vishnu-dutta.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vishnu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-dutta-90baba20b/)](https://www.linkedin.com/in/vishnu-dutta-90baba20b/)

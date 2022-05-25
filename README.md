@@ -7,8 +7,8 @@
 # Aspiring Full Stack Web Developer
 
 ## About Me
-- 🔭 I’m currently student at **[Masai School](https://www.masaischool.com/)**
-- 👯 I’m looking to work as **Web Developer**
+- 🔭 I’m currently working at **[I Money Pay](https://www.imoneywallet.in/about.php)**
+- 👯 I’m working as **React Developer**
 - 🎯 Portfolio website: [Portfolio](https://vishnu-dutta.vercel.app/)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
